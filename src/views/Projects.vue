@@ -30,6 +30,12 @@
       </div>
       <div class="sm:w-1/2 w-full m-2">
         <Project
+          title="Wisham"
+          :description="$t('projects.wisham')"
+          date="February 2022"
+          link="https://Wisham.ir"
+        />        
+        <Project
           title="Lymedia"
           :description="$t('projects.lymedia')"
           date="October 2021"
