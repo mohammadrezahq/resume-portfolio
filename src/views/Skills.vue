@@ -6,9 +6,9 @@
         <b class="block my-1">{{ $t("skills.pl") }}</b>
         <div class="flex">
           <Skill name="PHP" />
-          <Skill name="JavaScript" title="I know it's not :)" />
-          <!-- <Skill name="Python" />
-          <Skill name="Dart" title="New to this" /> -->
+          <Skill name="JavaScript" />
+          <Skill name="Python" title="New to this" />
+          <!--  <Skill name="Dart" title="New to this" /> -->
         </div>
       </div>      
       <div class="my-2">
@@ -23,6 +23,7 @@
         <b class="block my-1">Frontend</b>
         <div class="flex">
           <Skill name="Vue Js" />
+          <Skill name="Vite Js" />
           <!-- <Skill name="Flutter" /> -->
           <Skill name="Tailwind" />
           <Skill name="Bootstrap" />
