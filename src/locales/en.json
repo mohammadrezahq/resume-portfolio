@@ -39,8 +39,10 @@
     "handynum": "Number Helper package for Laravel",
     "toast": "Toast package for JavaScript",
     "lymedia": "Social media like instagram based on Laravel 8, Vue js V3 and MongoDB",
+    "messenger": "Real-time messenger app with Laravel, Vue js, MySQL and pusher",
     "wisham": "An app with Laravel and Vue for listing wishes",
     "mimfaweb": "Wordpress site",
+    "todoapp": "Todo desktop app with vue js and electron js",
     "link": "Visit here"
   },
   "education": {
